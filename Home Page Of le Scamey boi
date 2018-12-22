@@ -1,19 +1,22 @@
 <!DOCTYPE html>
-      <html>
-              <head>
-                      <style>
-                              html {background-color: #aeb2b2}
-                              h1 {font-size: 2em; font-weight: bold; font-family: Sans-Serif;}
-                              center {line-height: 200px; height: 200px; border: 3px solid green; text-align: center;}
-                      </style>
-                      <title>Free V-Bucks!</title>
-                      
-              </head>
-              <body>
-                       <div class="h1">
-                               <h1 align="center">FREE V-BUCKS!</h1>
-                      </div>
-                      <div class="center"
-                              <p>Click here for your Free V-Bucks!</p>
-                      </div>
+  <html>
+    <head>
+      <style>
+        html {background-color: #aeb2b2}
+        h1 {font-size: 2em; font-weight: bold; font-family: Sans-Serif; background-color: #fff;}
+        center {line-height: 200px; height: 200px; border: 3px solid green; text-align: center;}
+        .link {text-decoration: none}
+      </style>
+      
+      <title>Free V-Bucks!</title>
+    </head>
+    
+    <body>
+      <div class="h1">
+        <h1 align="center">FREE V-BUCKS!</h1>
+      </div>
+      
+      <div class="center"
+        <p><a href="#" class="link">Click here for your Free V-Bucks!</a></p>
+      </div> 
                       
